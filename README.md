@@ -19,5 +19,6 @@ Use code formatting of GitHub when pasting code, [see help](https://help.github.
 * [node-steam](https://github.com/seishun/node-steam)
 * [node-steam-trade](https://github.com/seishun/node-steam-trade)
 * [node-steam-tradeoffers](https://github.com/Alex7Kom/node-steam-tradeoffers)
+* [node-steam-groups](https://github.com/scholtzm/node-steam-groups)
 
 This is by no means a complete list. You can help expand this list by sending a pull request.
