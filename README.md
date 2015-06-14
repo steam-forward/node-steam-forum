@@ -21,5 +21,12 @@ Use code formatting of GitHub when pasting code, [see help](https://help.github.
 * [node-steam-tradeoffers](https://github.com/Alex7Kom/node-steam-tradeoffers)
 * [node-steam-groups](https://github.com/scholtzm/node-steam-groups)
 * [node-steam-chat-bot](https://github.com/efreak/node-steam-chat-bot)
+* [node-steamstuff](https://github.com/DoctorMcKay/node-steamstuff) (bootstraps a bot for login)
+* [steam-login](https://github.com/cpancake/steam-login) (steam-only openid)
+* [passport-steam](https://github.com/liamcurry/passport-steam) (steam module for passport openid library)
+* [steam-group](https://github.com/cpancake/steam-group) (groups api. list members/officers/users)
+* [steam-inventory-history](https://github.com/DoctorMcKay/node-steam-inventoryhistory)
+* [machinepack-steam](https://www.npmjs.com/package/machinepack-steam)
+* [node-vdf](https://github.com/RJacksonm1/node-vdf) (vdf<->object conversion)
 
 This is by no means a complete list. You can help expand this list by sending a pull request.
