@@ -33,6 +33,6 @@ __Issues are closed after a month of inactivity.__
 * [steam-inventory-history](https://github.com/DoctorMcKay/node-steam-inventoryhistory)
 * [machinepack-steam](https://www.npmjs.com/package/machinepack-steam)
 * [node-vdf](https://github.com/RJacksonm1/node-vdf) (vdf<->object conversion)
-* [node-tf2](https://github.com/seishun/node-tf2) (tf2 crafting and item management)
+* [node-tf2](https://github.com/DoctorMcKay/node-tf2) (tf2 crafting and item management)
 
 This is by no means a complete list. You can help expand this list by sending a pull request.
