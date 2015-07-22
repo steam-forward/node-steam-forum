@@ -28,14 +28,14 @@ __Issues are closed after a month of inactivity.__
 | [node-steam-chat-bot](https://github.com/efreak/node-steam-chat-bot) |  Create chat triggers and send chat messages. |
 | [node-steam-groups](https://github.com/scholtzm/node-steam-groups) | Invite users to groups and accept group invites. |
 | [steam-group](https://github.com/cpancake/steam-group) | Steam groups API. List members/officers/users. |
-| [node-steamcommunity](https://github.com/DoctorMcKay/node-steamcommunity) | Does everything Steam Community related (notifications, parental unlocking, API key retrieval, etc.) |
+| [node-steamcommunity](https://github.com/DoctorMcKay/node-steamcommunity) | Does everything Steam Community related. |
 | [steam-store](https://github.com/Autarc/steam-store) | Interact with the Steam Store. |
 
 ### Steam Trading / Steam Inventory
 | Module        | Description   |
 | ------------- | ------------- |
-| [node-steam-trade](https://github.com/seishun/node-steam-trade) | Perform live trades with users. (=/= node-steam-tradeoffers) |
-| [node-steam-tradeoffers](https://github.com/Alex7Kom/node-steam-tradeoffers) | Send, accept, and decline incoming tradeoffers (=/= node-steam-trade) |
+| [node-steam-trade](https://github.com/seishun/node-steam-trade) | Perform live trades with users. |
+| [node-steam-tradeoffers](https://github.com/Alex7Kom/node-steam-tradeoffers) | Send, accept, and decline incoming tradeoffers. |
 | [steam-inventory-history](https://github.com/DoctorMcKay/node-steam-inventoryhistory) | Get your Steam inventory history. |
 
 ### Steam Login
