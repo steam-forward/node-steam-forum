@@ -24,33 +24,38 @@ __Issues are closed after a month of inactivity.__
 
 | Module        | Description   |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-|               |               |
-* [node-steam](https://github.com/seishun/node-steam)
-* [node-steam-chat-bot](https://github.com/efreak/node-steam-chat-bot)
-* [node-steam-groups](https://github.com/scholtzm/node-steam-groups)
-* [steam-group](https://github.com/cpancake/steam-group) (groups api. list members/officers/users)
-* [node-steamcommunity](https://github.com/DoctorMcKay/node-steamcommunity)
-* [steam-store](https://github.com/Autarc/steam-store) 
+| [node-steam](https://github.com/seishun/node-steam) | Simulate the Steam client. |
+| [node-steam-chat-bot](https://github.com/efreak/node-steam-chat-bot) |  Create chat triggers and send chat messages. |
+| [node-steam-groups](https://github.com/scholtzm/node-steam-groups) | Invite users to groups and accept group invites. |
+| [steam-group](https://github.com/cpancake/steam-group) | Steam groups API. List members/officers/users. |
+| [node-steamcommunity](https://github.com/DoctorMcKay/node-steamcommunity) | Does everything Steam Community related (notifications, parental unlocking, API key retrieval, etc.) |
+| [steam-store](https://github.com/Autarc/steam-store) | Interact with the Steam Store. |
 
 ### Steam Trading / Steam Inventory
-* [node-steam-trade](https://github.com/seishun/node-steam-trade)
-* [node-steam-tradeoffers](https://github.com/Alex7Kom/node-steam-tradeoffers)
-* [steam-inventory-history](https://github.com/DoctorMcKay/node-steam-inventoryhistory)
+| Module        | Description   |
+| ------------- | ------------- |
+| [node-steam-trade](https://github.com/seishun/node-steam-trade) | Perform live trades with users. (=/= node-steam-tradeoffers) |
+| [node-steam-tradeoffers](https://github.com/Alex7Kom/node-steam-tradeoffers) | Send, accept, and decline incoming tradeoffers (=/= node-steam-trade) |
+| [steam-inventory-history](https://github.com/DoctorMcKay/node-steam-inventoryhistory) | Get your Steam inventory history. |
 
 ### Steam Login
-* [steam-login](https://github.com/cpancake/steam-login) (steam-only openid)
-* [node-steamstuff](https://github.com/DoctorMcKay/node-steamstuff) (bootstraps a bot for login)
-* [passport-steam](https://github.com/liamcurry/passport-steam) (steam module for passport openid library)
+| Module        | Description   |
+| ------------- | ------------- |
+| [steam-login](https://github.com/cpancake/steam-login) | Steam-only OpenID. |
+| [node-steamstuff](https://github.com/DoctorMcKay/node-steamstuff) | Bootstraps a bot for login. |
+| [passport-steam](https://github.com/liamcurry/passport-steam) | Steam module for the passport OpenID library. |
 
 ### Game Specific
-* [node-tf2](https://github.com/DoctorMcKay/node-tf2) (tf2 crafting and item management)
-* [node-csgo](https://github.com/joshuaferrara/node-csgo)
+| Module        | Description   |
+| ------------- | ------------- |
+| [node-tf2](https://github.com/DoctorMcKay/node-tf2) | TF2 crafting and item management. |
+| [node-csgo](https://github.com/joshuaferrara/node-csgo) | Get CS:GO player ranks, recent game stats, and matchmaking stats. |
 
 ### Other
-* [node-steamrep](https://github.com/scholtzm/node-steamrep)
-* [node-vdf](https://github.com/RJacksonm1/node-vdf) (vdf<->object conversion)
+| Module        | Description   |
+| ------------- | ------------- |
+| [node-steamrep](https://github.com/scholtzm/node-steamrep) | Find if a player is marked as a scammer on SteamRep. |
+| [node-vdf](https://github.com/RJacksonm1/node-vdf) | vdf<->object conversion. |
 
 
 This is by no means a complete list. You can help expand this list by sending a pull request.
