@@ -28,7 +28,7 @@ __Issues are closed after a month of inactivity.__
 | [node-steam-chat-bot](https://github.com/efreak/node-steam-chat-bot) |  Create chat triggers and send chat messages. |
 | [node-steam-groups](https://github.com/scholtzm/node-steam-groups) | Invite users to groups and accept group invites. |
 | [steam-group](https://github.com/cpancake/steam-group) | Steam groups API. List members/officers/users. |
-| [node-steamcommunity](https://github.com/DoctorMcKay/node-steamcommunity) | Does everything Steam Community related (notifications, parental controls, etc.). |
+| [node-steamcommunity](https://github.com/DoctorMcKay/node-steamcommunity) | Does everything Steam Community related (notifications, parental controls, etc.) |
 | [steam-store](https://github.com/Autarc/steam-store) | Interact with the Steam Store. |
 
 ### Steam Trading / Steam Inventory
