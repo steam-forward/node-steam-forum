@@ -22,6 +22,7 @@ __Issues are closed after a month of inactivity.__
 
 ### General Steam
 
+| ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 |               |               |
