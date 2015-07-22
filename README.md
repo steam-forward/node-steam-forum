@@ -34,5 +34,6 @@ __Issues are closed after a month of inactivity.__
 * [machinepack-steam](https://www.npmjs.com/package/machinepack-steam)
 * [node-vdf](https://github.com/RJacksonm1/node-vdf) (vdf<->object conversion)
 * [node-tf2](https://github.com/DoctorMcKay/node-tf2) (tf2 crafting and item management)
+* [vapor](https://github.com/scholtzm/vapor) (automated extensible steam client)
 
 This is by no means a complete list. You can help expand this list by sending a pull request.
