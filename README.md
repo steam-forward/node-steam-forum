@@ -50,6 +50,7 @@ __Issues are closed after a month of inactivity.__
 | ------------- | ------------- |
 | [node-tf2](https://github.com/DoctorMcKay/node-tf2) | TF2 crafting and item management. |
 | [node-csgo](https://github.com/joshuaferrara/node-csgo) | Get CS:GO player ranks, recent game stats, and matchmaking stats. |
+| [node-dota2](https://github.com/RJacksonm1/node-dota2) | Dota2 item management, parties, lobbies, chat, etc. |
 
 ### Other
 | Module        | Description   |
