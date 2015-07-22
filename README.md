@@ -21,6 +21,10 @@ __Issues are closed after a month of inactivity.__
 ## Steam-related modules for Node.js
 
 ### General Steam
+
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+|               |               |
 * [node-steam](https://github.com/seishun/node-steam)
 * [node-steam-chat-bot](https://github.com/efreak/node-steam-chat-bot)
 * [node-steam-groups](https://github.com/scholtzm/node-steam-groups)
