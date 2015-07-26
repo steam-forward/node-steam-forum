@@ -8,6 +8,8 @@ Be polite. Be efficient.
 
 If you have trouble understanding READMEs or examples of modules, perhaps you [don't know JavaScript](https://github.com/getify/You-Dont-Know-JS/) good enough. JavaScript is a language decievably easy to start with, but many (especially client-side) programmers rarely use it to its full potential. However, Node.js programming actually requires to understand and use most of the JavaScript techniques. So, [learn](https://github.com/getify/You-Dont-Know-JS/)! It is well worth your time.
 
+Another great way to learn JS and Node.js-related stuff is [NodeSchool](http://nodeschool.io/). Check it out!
+
 Before creating an issue, try search, and browse closed issues.
 
 When creating an issue, state what modules you are trying to use, what you are trying to achieve, what problem you have and what else you are already tried to solve it.
