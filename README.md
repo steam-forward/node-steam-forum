@@ -33,6 +33,7 @@ __Issues are closed after a month of inactivity.__
 | [node-steamcommunity](https://github.com/DoctorMcKay/node-steamcommunity) | Does everything Steam Community related. |
 | [steam-store](https://github.com/Autarc/steam-store) | Interact with the Steam Store. |
 | [vapor](https://github.com/scholtzm/vapor) | Lightweight Steam client framework. |
+| [steam-parentbot](https://github.com/dragonbanshee/node-steam-parentbot) | Base class for steam bots. |
 
 ### Steam Trading / Steam Inventory
 | Module        | Description   |
@@ -61,6 +62,7 @@ __Issues are closed after a month of inactivity.__
 | [node-steamrep](https://github.com/scholtzm/node-steamrep) | Find if a player is marked as a scammer on SteamRep. |
 | [node-reptf](https://github.com/scholtzm/node-reptf) | Fetch user's reputation status and profile from rep.tf. |
 | [node-vdf](https://github.com/RJacksonm1/node-vdf) | vdf<->object conversion. |
+| [steam-profilecheck](https://github.com/dragonbanshee/node-steam-profilecheck) | Blocks friend requests from private profiles and scammers. |
 
 
 This is by no means a complete list. You can help expand this list by sending a pull request.
