@@ -1,5 +1,7 @@
 # Forum about coding for Steam on JS
 
+__[Everything you need to know about Escrow.](https://www.reddit.com/r/SteamBot/comments/3udhkd/everything_related_to_escrow/)__
+
 The goal of this forum is to create a place where people can discuss developing Steam-related applications, using Steam Web API in JS, and various Steam-related JS libs.
 
 If you have trouble using any of Steam-related module for Node.js, this repo's [Issues](https://github.com/steam-forward/node-steam-forum/issues) is the best place to ask for help. Please, be considerate, don't expect that anyone will code everything for you. If you are unsure if you found a bug or not, it is also better to ask here first.
